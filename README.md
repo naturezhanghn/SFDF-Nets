@@ -1,4 +1,4 @@
 # SFDF-Nets
-This is the first version of the code.
+Deep learning-based image reconstruction for photonic integrated interferometric imaging.（Optics Express2022）
 
  
